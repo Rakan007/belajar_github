@@ -5,3 +5,4 @@ Daftar Makanan Favorit
   4. Batagor
   5. Fried Chicken
   6. Seblak
+  7. Es Goriorio
